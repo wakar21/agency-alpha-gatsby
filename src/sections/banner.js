@@ -17,10 +17,6 @@ const logos = [
     name: 'Google',
     src: google,
   },
-  {
-    name: 'Dropbox',
-    src: dropbox,
-  },
 ];
 
 const Banner = () => {

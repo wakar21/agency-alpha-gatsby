@@ -14,8 +14,8 @@ export default function IndexPage() {
   return (
     <Layout>
       <SEO
-        title="Startup Agency Alpha Landing"
-        description="Collection of free top of the line startup landing templates built using react/ next js. Free to download, simply edit and deploy! Updated weekly!"
+        title="MokshIn"
+        description="Monitor mental and emotional wellness of your team. Enhance productivity at your workplace"
       />
       <Banner />
       {/* <Support /> */}
